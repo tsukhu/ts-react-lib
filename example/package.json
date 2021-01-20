@@ -8,7 +8,8 @@
     "build": "parcel build index.html"
   },
   "dependencies": {
-    "@bit/tsukhu.ts-collaborate.product-list": "^0.0.4",
+    "@bit/tsukhu.ts-collaborate.product-list": "^0.0.5",
+    "@bit/tsukhu.ts-react-styles.root-styles": "^0.0.1",
     "react-app-polyfill": "^1.0.0"
   },
   "alias": {

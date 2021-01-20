@@ -12,6 +12,10 @@ export interface ProductListProps {
   products: ProductProps[];
 }
 
+/**
+ * Product List Update
+ * @param param0 
+ */
 const ProductList: React.FC<ProductListProps> = ({ products }) => {
   return (
     <div className="container py-5">
@@ -23,7 +27,7 @@ const ProductList: React.FC<ProductListProps> = ({ products }) => {
       <div className="row">
         <div className="col-lg-8 mx-auto">
           <ul className="list-group shadow">
-            {!products && <p className="h6 text-center">No Products</p>}
+            {!products && <p className="h6 text-center">No Products !!</p>}
             {products &&
               products.map(
                 ({ title, description, price, img }: ProductProps) => {

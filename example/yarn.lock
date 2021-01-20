@@ -847,10 +847,15 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@bit/tsukhu.ts-collaborate.product-list@^0.0.4":
-  version "0.0.4"
-  resolved "https://node.bit.dev/tsukhu.ts-collaborate.product-list/-/tsukhu.ts-collaborate.product-list-0.0.4.tgz#62ee2a5911ff07505ce9dcc9129687578617e8ad"
-  integrity sha1-Yu4qWRH/B1Bc6dzJEpaHV4YX6K0=
+"@bit/tsukhu.ts-collaborate.product-list@^0.0.5":
+  version "0.0.5"
+  resolved "https://node.bit.dev/tsukhu.ts-collaborate.product-list/-/tsukhu.ts-collaborate.product-list-0.0.5.tgz#dad200e04da697ba5dfb5b271883ce7a97095e4d"
+  integrity sha1-2tIA4E2ml7pd+1snGIPOepcJXk0=
+
+"@bit/tsukhu.ts-react-styles.root-styles@^0.0.1":
+  version "0.0.1"
+  resolved "https://node.bit.dev/tsukhu.ts-react-styles.root-styles/-/tsukhu.ts-react-styles.root-styles-0.0.1.tgz#bca177d3e18852960dfa9551eebef5aeea837056"
+  integrity sha1-vKF30+GIUpYN+pVR7r71ruqDcFY=
 
 "@iarna/toml@^2.2.0":
   version "2.2.5"

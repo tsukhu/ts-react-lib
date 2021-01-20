@@ -1,7 +1,7 @@
 import 'react-app-polyfill/ie11';
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
-import './styles.css';
+import '@bit/tsukhu.ts-react-styles.root-styles';
 import ProductList, { ProductProps } from '@bit/tsukhu.ts-collaborate.product-list';
 const products: ProductProps[] = [
   {
